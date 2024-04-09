@@ -17,7 +17,7 @@ def test_valid_url(guvi_instance):  # Define a test named test_valid_url, taking
 
 # Positive Test case: Proper Shutdown
 def test_proper_shutdown(guvi_instance):  # Define a test named test_proper_shutdown, taking guvi_instance as input
-    pass  # Placeholder, no assertion needed for proper shutdown
+    pass  # no assertion needed for proper shutdown
 
 # Positive: Existing Followers and Following Counts:
 def test_get_followers_count(guvi_instance):  # Define a test named test_get_followers_count, taking guvi_instance as input
